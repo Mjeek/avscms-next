@@ -42,7 +42,7 @@ Only 100$ Order Here: https://avscmsnext.sell.app/product/adultvideoscript-next
 You’ll get a ZIP of the optimized repo and a 30‑day support.
 
 # Free Installation
-Server Setup and Installation included Free Only with Fresh Server with Ubuntu 24.04 Installed
+Server Setup and Installation included Free Only with Fresh Server and Ubuntu 24.04 Installed
 
 # Deploy
 Follow the installation guide above. If you need help, open a support ticket through Telegram.
