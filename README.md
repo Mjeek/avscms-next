@@ -10,9 +10,9 @@
 ## 📦 What is AVSCMS Next?
 
 AVSCMS Next is a hardened, production‑ready fork of the original **AVSCMS 8.2** content‑management system.  
-It brings the same powerful video‑sharing capabilities to a brand‑new level of speed, SEO friendliness and NGINX optimisation while still keeping the original GPL‑v3 licence for the core engine.
+It brings the same powerful video‑sharing capabilities to a brand‑new level of speed, Updated SEO and NGINX Optimization while still keeping the original GPL‑v3 licence for the core engine.
 
-### Why buy this copy?
+### Why Get this copy?
 
 | Feature | AVSCMS 8.2 | AVSCMS Next |
 |---------|------------|-------------|
