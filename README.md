@@ -33,11 +33,10 @@ It brings the same powerful video‑sharing capabilities to a brand‑new level 
 # 📌 How to purchase
 
 # Contact me
-👉 Telegram: https://t.me/appslayer
-Send “Buy AVSCMS Next” and I’ll provide a secure checkout link.
+👉 Telegram for Support : https://t.me/appslayer
 
-# Make the payment
-Pay $100 USD via Crypto USDT, BTC, LTC, USDC.
+# Make Order
+Only 100$ Order Here: https://avscmsnext.sell.app/product/adultvideoscript-next
 
 # Receive your copy
 You’ll get a ZIP of the optimized repo and a 30‑day support.
